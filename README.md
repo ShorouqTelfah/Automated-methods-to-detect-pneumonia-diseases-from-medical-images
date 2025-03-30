@@ -1,0 +1,1 @@
+# Automated-methods-to-detect-pneumonia-diseases-from-medical-images
